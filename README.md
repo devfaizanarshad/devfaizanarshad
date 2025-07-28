@@ -11,7 +11,6 @@ Hi! I'm **Faizan Arshad**, a Full Stack Developer with a specialization in **Web
 - 🌍 I build scalable location-aware applications using **PostGIS, Leaflet.js, GraphHopper**, and custom geofence logic.
 - 🧭 I solve real-time field ops and logistics problems using open-source-first architectures.
 - 🚀 I love turning geospatial data into live dashboards, alerts, and interactive route planning tools.
-- 📍 Currently based in Pakistan, actively learning **German (A2)** and applying for Master's + WebGIS roles in Germany.
 
 
 ## 🛠️ Tech Stack
