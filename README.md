@@ -38,21 +38,21 @@ Hi! I'm **Faizan Arshad**, a Full Stack Developer with a specialization in **Web
 
 ## 🚀 Featured WebGIS Projects
 
-### 🔹 [GeoFenceTrack]()
+### 🔹 [GeoFenceTrack]
 > 🛰️ Real-time violation engine for polygon geofences
 
 - Designed live tracking engine using `ST_Contains()` + WebSockets
 - Stores violation history and geozones in PostGIS
 - Frontend built in Leaflet.js with role-based access controls
 
-### 🔹 [MapLayerSecure]()
+### 🔹 [MapLayerSecure]
 > 🔐 Secure access to spatial layers based on user roles
 
 - RBAC-enabled GeoJSON layers: Points, Lines, Polygons
 - WMS/WFS-ready design for future GeoServer compatibility
 - Clean Leaflet UI with backend-filtered visibility
 
-### 🔹 [TrafficSimGIS]()
+### 🔹 [TrafficSimGIS]
 > 🛣️ Simulated traffic heatmap with GraphHopper + PostGIS
 
 - Timestamped GPS data to simulate urban traffic congestion
